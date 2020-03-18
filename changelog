@@ -1,20 +1,5 @@
 ######################################################################################################################
 #### Prerelease 2
-
-#### Things that need to be told
- * Your warranty is now void.
- * 
- * I am not responsible for bricked devices, dead SD cards,
- * thermonuclear war, or you getting fired because the alarm app failed. Please
- * do some research if you have any concerns about features included in this ROM
- * before flashing it! YOU are choosing to make these modifications, and if
- * you point the finger at me for messing up your device, I will laugh at you.
-#### installation
-* clean flash recommended
-* wipe data, system, cache
-* flash rom zip then boot ( dont flash magisk or gapps yet )
-* flash magisk then boot ( required for nethunter )
-* then flash whatever you want.
 #### Fixes?
 * fixed nh-terminal crash on start
 * fixed nh-kex crash on start
