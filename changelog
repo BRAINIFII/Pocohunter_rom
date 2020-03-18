@@ -13,7 +13,14 @@
 * added nh codes to /init.rc /ueventd.rc needs (tested)
 * To get hid working run " setprop sys.usb.config win,hid,adb "
 ######################################################################################################################
-#### Prerelease 2
-
-
+#### Prerelease 1
+#### what works?
+* everything i tested
+#### what does it include
+* standard nethunter apps and scripts to work ( taken from installer and included it in rom source )
+* bootanimation from nethunter
+* and based on aosip source.
+#### what dosent it include
+* gapps
+* HID ( unfinished still )
 ######################################################################################################################
