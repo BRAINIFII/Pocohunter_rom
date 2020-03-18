@@ -5,7 +5,7 @@
 * fixed nh-kex crash on start
 * fixed bootloop ( some users reported it )
 #### misc
-* added nh-full chroot to internal storage (use nh to restore chroot).
+* changed bootanimation to old blue kali ( some users will remember it )
 #### kernel
 * rebased to lineage os 17.1 (android_kernel_xiaomi_sdm845)
 * added hid patch: https://github.com/pelya/android-keyboard-gadget/tree/69d63badc977f8fa8327d3a1fb8d9eccbfbd65dc
